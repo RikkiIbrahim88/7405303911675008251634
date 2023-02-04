@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108961080588",
+    "project_id": "half-screen-wallpaper",
+    "storage_bucket": "half-screen-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108961080588:android:d9ab496bad209e87741529",
+        "android_client_info": {
+          "package_name": "com.raidev.halfscreen.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108961080588-b7vhr6kjf9v5ilfk99lrcqus9vji0cki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdbDogkjoBTpefy8HW2bsmnT-rVOZ1GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108961080588-b7vhr6kjf9v5ilfk99lrcqus9vji0cki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
